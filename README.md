@@ -1,12 +1,12 @@
 ﻿# VenusClouds
 Detection of clouds in VENµS satellite images
-VENµS is the first cooperative Earth observation program of Israel (ISA) and France (CNES). The minisatellite mission is being developed jointly by ISA (Israel Space Agency) and CNES, under a memorandum of understanding between the two space agencies, signed in April 2005.
 
-המטרה היא לזהות עננים וצללים של עננים בהדמאות של ונוס כדי שנוכל להוריד אותם מהנתונים שאנחנו מנתחים.
-מחברות רלוונטיות:
-Venus_Clouds_mask - Jupyter Notebook
-3 גישות איתם ניתן להסיר את העננים:
-1. להשתמש ברסטר של עננות שמסופק עם ההדמאות של ונוס (CLD.DBL.TIF)
-2. להשתמש באינדקס מהספרות
-3. לנסות לזהות את העננים עם אלגוריתם משלנו
+VENµS is the first cooperative Earth observation program of Israel (ISA) and France (CNES). The minisatellite mission is being developed jointly by ISA (Israel Space Agency) and CNES, under a memorandum of understanding between the two space agencies, signed in April 2005.
+(for more information about VENµS click here 
+
+The purpose of this project is to detect clouds and shadow from images from Venus satellite by Machine Learning algorithm. And to get the ability to mask them over the images to get cleaner data.
+
+There is three ways to remove clouds from this images:
+1. Use the raster that provided by the Venus satellite metadata (CLD.DBL.TIF)
+2. 
 
