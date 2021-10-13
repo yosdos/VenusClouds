@@ -11,3 +11,6 @@ There is three ways to remove clouds from this images:
 2. Use clouds indices from academic paper
 3. Develop new algorithm 
 
+
+
+
